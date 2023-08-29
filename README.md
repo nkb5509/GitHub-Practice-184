@@ -45,7 +45,6 @@
 | Xihui Xu                | Section 002       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |      
 | Nur Najwa Ayda          | Section 002       | nkb5509              | https://github.com/nkb5509/GitHubPractice184-nkb5509.git |
 
-
 # Integration of RStudio with Git
 
 - Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
